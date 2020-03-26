@@ -1,8 +1,7 @@
 ulang="y"
 while [ $ulang = "y" ]
 do
-clear
-sleep 2                                                                                                                                      echo "\033[1;35m[\033[1;32m1\033[1;35m]\033[1;37m DOWNLOAD PASSWORD TOOLS"
+clear                                                                                                                                     echo "\033[1;35m[\033[1;32m1\033[1;35m]\033[1;37m DOWNLOAD PASSWORD TOOLS"
 sleep 1
 echo "\033[1;35m[\033[1;32m2\033[1;35m]\033[1;37m CARA DOWNLOAD PASSWORD"
 sleep 1
