@@ -1,4 +1,4 @@
-lang="y"
+ulang="y"
 while [ $ulang = "y" ]
 do
 clear
